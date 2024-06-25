@@ -1,4 +1,4 @@
-# UOG LMS Beauty Parlour
+# UOG LMS 
 
 Enable dark mode for UOG LMS to go easy on your eyes while checking your attendance and other stuff like seeing the instructor's email so that you can contact them to resolve the attendance problem.
 
